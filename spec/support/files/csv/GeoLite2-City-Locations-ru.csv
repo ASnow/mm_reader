@@ -1,0 +1,23 @@
+geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_name,subdivision_1_iso_code,subdivision_1_name,subdivision_2_iso_code,subdivision_2_name,city_name,metro_code,time_zone
+1814991,ru,AF,"Африка",SO,Сомали,,TestState,,,,,Africa/Mogadishu
+2077456,ru,AF,"Африка",SO,Сомали,BN,,,,"Могадишо",,Africa/Mogadishu
+4178550,ru,AF,"Африка",SO,Сомали,WO,,,,"Харгейсе",,Africa/Mogadishu
+4699066,ru,AS,"Азия",YE,"Йемен",,,,,,,Asia/Aden
+2110681,ru,AS,"Азия",IQ,"Ирак",MA,,,,,,Asia/Baghdad
+1864092,ru,AS,"Азия",SA,"Саудовская Аравия",03,,,,,,Asia/Riyadh
+1850147,ru,AS,"Азия",SA,"Саудовская Аравия",,,,,,,Asia/Riyadh
+101554,ru,AS,"Азия",SA,"Саудовская Аравия",04,,,,,,Asia/Riyadh
+101628,ru,AS,"Азия",SA,"Саудовская Аравия",07,,,,"Табук",,Asia/Riyadh
+102318,ru,AS,"Азия",SA,"Саудовская Аравия",04,,,,,,Asia/Riyadh
+102358,ru,AS,"Азия",SA,"Саудовская Аравия",,,,,,,Asia/Riyadh
+102527,ru,AS,"Азия",SA,"Саудовская Аравия",12,,,,Сакака,,Asia/Riyadh
+102585,ru,AS,"Азия",SA,"Саудовская Аравия",04,,,,,,Asia/Riyadh
+102891,ru,AS,"Азия",SA,"Саудовская Аравия",04,,,,,,Asia/Riyadh
+102912,ru,AS,"Азия",SA,"Саудовская Аравия",04,,,,,,Asia/Riyadh
+103035,ru,AS,"Азия",SA,"Саудовская Аравия",02,,,,,,Asia/Riyadh
+103630,ru,AS,"Азия",SA,"Саудовская Аравия",10,,,,,,Asia/Riyadh
+104514,ru,AS,"Азия",SA,"Саудовская Аравия",02,,,,,,Asia/Riyadh
+104515,ru,AS,"Азия",SA,"Саудовская Аравия",02,,,,"Мекка",,Asia/Riyadh
+104923,ru,AS,"Азия",SA,"Саудовская Аравия",02,,,,,,Asia/Riyadh
+105072,ru,AS,"Азия",SA,"Саудовская Аравия",14,,,,"Хамис-Мушайт",,Asia/Riyadh
+105298,ru,AS,"Азия",SA,"Саудовская Аравия",09,,,,,,Asia/Riyadh
