@@ -13,13 +13,14 @@ module MmReader
       result = db.execute('SELECT DISTINCT network FROM ip4_index WHERE postal_code = ?', [@postal])
       return result if result.size > 0
 
-      result = db.execute('SELECT DISTINCT network FROM ip4_index WHERE city = ? and state = ?', [@city, @state])
+      state = "%#{@state}%"
+      result = db.execute('SELECT DISTINCT network FROM ip4_index WHERE city = ? and state like ?', [@city, state])
       return result if result.size > 0
 
       result = db.execute('SELECT DISTINCT network FROM ip4_index WHERE city = ?', [@city])
       return result if result.size > 0
 
-      result = db.execute('SELECT DISTINCT network FROM ip4_index WHERE state = ?', [@state])
+      result = db.execute('SELECT DISTINCT network FROM ip4_index WHERE state like ?', [state])
       return result if result.size > 0
 
       return []
